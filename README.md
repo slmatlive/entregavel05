@@ -97,13 +97,3 @@ Depois dessas estatísticas, o relatório lista os registros, com a situação e
 ## O que aprendi com a atividade
 
 Com essa atividade, pratiquei a leitura e escrita de arquivos usando `with open()`, o uso de regex para conferir formatos e o tratamento de erros com `try/except`. Também vi que é melhor indicar o problema de cada linha do que fazer o programa parar por causa de um cadastro incorreto.
-
-## Como entregar pelo GitHub
-
-1. Entrar no [GitHub](https://github.com/) e criar um repositório **público**, com o nome `sprint-05-analise-dados`.
-2. Clicar em **Add file > Upload files**.
-3. Enviar os arquivos desta pasta (não é necessário enviar o ZIP).
-4. Confirmar em **Commit changes**.
-5. Copiar o link do repositório e enviar ao professor.
-
-O repositório ainda precisa ser criado na sua conta. O arquivo ZIP é apenas para organizar os materiais antes do envio.
